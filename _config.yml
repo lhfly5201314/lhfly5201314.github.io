@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 飞鸿的博客"
 url: "http://lhfly5201314.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/lhfly5201314/lhfly5201314.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,8 +20,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     Hacking4World
 github_username:    lhfly5201314
-facebook_username:  username
-jianshu_username:   username
+facebook_username:  18696193637
+jianshu_username:   少林扫地僧2018
 #twitter_username:   lhfly520
 
 
